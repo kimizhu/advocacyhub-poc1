@@ -26,7 +26,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/kimizhu/trustcenter.template",
+      "url": "https://github.com/kimitesttransfer/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
     }
