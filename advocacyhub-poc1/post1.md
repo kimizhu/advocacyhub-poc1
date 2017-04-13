@@ -1,7 +1,3 @@
----
-layout: TrustCenterPageCN
----
-
 An h1 header
 ============
 
